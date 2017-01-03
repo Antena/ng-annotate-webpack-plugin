@@ -1,5 +1,5 @@
 {
-  "name": "ng-annotate-webpack-plugin",
+  "name": "antena-ng-annotate-webpack-plugin",
   "version": "0.1.3",
   "description": "webpack plugin that runs ng-annotate on your bundles",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cliechty/ng-annotate-webpack-plugin.git"
+    "url": "https://github.com/Antena/ng-annotate-webpack-plugin.git"
   },
   "keywords": [
     "webpack",
@@ -18,11 +18,11 @@
   "author": "Chris Liechty",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cliechty/ng-annotate-webpack-plugin/issues"
+    "url": "https://github.com/Antena/ng-annotate-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/cliechty/ng-annotate-webpack-plugin",
+  "homepage": "https://github.com/Antena/ng-annotate-webpack-plugin",
   "dependencies": {
-    "ng-annotate": "^1.0.1",
-    "webpack-core": "^0.6.5"
+    "ng-annotate": "^0.15.1",
+    "webpack-core": "^0.4.1"
   }
 }
